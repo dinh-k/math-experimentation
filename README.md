@@ -11,7 +11,11 @@ Collection of math laboratory reports with a touch of data science, for self-lea
 - [Cyclic Difference Sets](cyclic-difference-sets/cyclic-difference-sets.pdf): A study of cyclic difference sets derived from non-zero squares modulo integers, combining theoretical proofs and MATLAB simulations.
 
 𖤘 Combinatorics
-- [Chromatic Polynomials and Graph Coloring](chromatic-polynomials-and-graph-coloring/chromatic-polynomials-birkhoff-lewis-method.pdf): An exploration of chromatic polynomials in graph theory, utilizing Birkhoff-Lewis Reduction Algorithm for graph coloring problems. Includes derivations for paths, cycles, and complete graphs using combinatorial reasoning and mathematical induction.
+- [Chromatic Polynomials and Graph Coloring](chromatic-polynomials-and-graph-coloring/chromatic-polynomials-birkhoff-lewis-method.pdf): An exploration of chromatic polynomials in graph theory, utilizing the Birkhoff-Lewis Reduction Algorithm for graph coloring problems. Includes derivations for paths, cycles, and complete graphs using combinatorial reasoning and mathematical induction.
 
 𖤘 Dynamical Systems
-- [Convergence and Divergence in Linear Iteration Sequences](iteration-sequence-analysis/convergence-divergence-in-linear-iteration-sequences.pdf): An algebraic and geometric analysis of convergence and divergence behavior in linear iteration sequences. Visualizes iterative processes using cobweb diagrams. Investigates the role of parameters, initial value, conditions for fixed points, oscillatory behaviors, and exponential divergence.
+- [Convergence and Divergence in Linear Iteration Sequences](iteration-sequence-analysis/convergence-divergence-in-linear-iteration-sequences.pdf): An algebraic and geometric analysis of convergence and divergence behavior in linear iteration sequences. Visualizes iterative processes using cobweb diagrams. Investigates the role of parameters, initial values, conditions for fixed points, oscillatory behaviors, and exponential divergence.
+
+## Acknowledgments
+ 
+I would like to express my sincere gratitude to [Professor Margaret M. Robinson](https://sites.google.com/mtholyoke.edu/margaretmrobinson/home) for her unwavering support and thoughtful guidance throughout MATH251 and beyond. Her teaching and mentorship were instrumental in shaping both these projects and my growth as a student and researcher.
