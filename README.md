@@ -17,5 +17,4 @@ Collection of math laboratory reports with a touch of data science, for self-lea
 - [Convergence and Divergence in Linear Iteration Sequences](iteration-sequence-analysis/convergence-divergence-in-linear-iteration-sequences.pdf): An algebraic and geometric analysis of convergence and divergence behavior in linear iteration sequences. Visualizes iterative processes using cobweb diagrams. Investigates the role of parameters, initial values, conditions for fixed points, oscillatory behaviors, and exponential divergence.
 
 ## Acknowledgments
- 
 I would like to express my sincere gratitude to [Professor Margaret M. Robinson](https://sites.google.com/mtholyoke.edu/margaretmrobinson/home) for her unwavering support and thoughtful guidance throughout MATH251 and beyond. Her teaching and mentorship were instrumental in shaping both these projects and my growth as a student and researcher.
